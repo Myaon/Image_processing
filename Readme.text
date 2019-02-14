@@ -1,3 +1,7 @@
 # install of opencv
 $ sudo apt-get update
 $ sudo apt-get install libopencv-dev python-opencv
+
+# additional install for Akaze
+$ sudo pip3 install opencv-contrib-python
+$ sudo apt-get install libatlas-base-dev
